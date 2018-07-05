@@ -1,5 +1,6 @@
 # Singular
 This is my version of a word game. Enter as  many words as possible before the clock runs out, without repeating any.
+
 Scoring Style is an option via segment control (Boggle, Scrabble & Words With Friends)
 - Boggle-style scoring
 - Scrabble-style scoring
@@ -17,6 +18,12 @@ Strikes
 - Entering a previously submitted word
 - Misspelling a word for submission
 - Submitting an entry with no characters (blank/null)
+
+Records / Dictionary
+- Enter words to practice spelling
+- select words enterd for definitions
+- Enable/Download different dictionaries in different languages for localization.
+
 
 <p align="center">
   <img src="https://github.com/dlr4life/Singular/blob/master/Singular/Assets.xcassets/IMG_0081.imageset/IMG_0081.PNG" width="350" title="hover text">
