@@ -1,0 +1,48 @@
+PODS:
+  - AnimatedCollectionViewLayout (0.3.0)
+  - BetterSegmentedControl (0.8)
+  - Crashlytics (3.8.6):
+    - Fabric (~> 1.6.3)
+  - Fabric (1.6.13)
+  - GLInAppPurchase (1.1.3)
+  - InAppPurchaseButton (1.0.1)
+  - Pastel (0.3.0)
+  - Pulsar (2.0.0)
+  - QuickTableViewController (0.5.3)
+  - Realm (2.10.1):
+    - Realm/Headers (= 2.10.1)
+  - Realm/Headers (2.10.1)
+  - RealmSwift (2.10.1):
+    - Realm (= 2.10.1)
+  - Splitflap (3.0.0)
+
+DEPENDENCIES:
+  - AnimatedCollectionViewLayout
+  - BetterSegmentedControl (~> 0.8)
+  - Crashlytics (~> 3.8)
+  - Fabric
+  - GLInAppPurchase
+  - InAppPurchaseButton
+  - Pastel
+  - Pulsar
+  - QuickTableViewController (~> 0.5.0)
+  - RealmSwift
+  - Splitflap
+
+SPEC CHECKSUMS:
+  AnimatedCollectionViewLayout: 504b992a4258eb39d2dd2b2b48e84b4b95860fd7
+  BetterSegmentedControl: 9194e20687a02dd498a4e542cf523bdd8620fcb7
+  Crashlytics: 95d05f4e4c19a771250c4bd9ce344d996de32bbf
+  Fabric: 2fb5676bc811af011a04513451f463dac6803206
+  GLInAppPurchase: 57e3fcede4909be2a7b21a6a716883db9d7524c7
+  InAppPurchaseButton: a694c2153ce86cad91b6dad41fecdb8be4a2a5bf
+  Pastel: 738740c84f2b15bbcd96ebe99c4e6c2f5dd42262
+  Pulsar: 076c04047b4276dee3093077164d0c427e759199
+  QuickTableViewController: fa0791b3f8d4a9b880041fce1252d71505b03f5d
+  Realm: fc7a317a5c2c9ba91f5f235ede4e2ea76e9eba0c
+  RealmSwift: 505ed6c15942a2e76f5cfa78a8667cfa997ee75b
+  Splitflap: fd670762bb325955699df99f5a51dc58e9420722
+
+PODFILE CHECKSUM: 6e75142dbd4e83abd0e96705e826e26c615264b0
+
+COCOAPODS: 1.2.0
