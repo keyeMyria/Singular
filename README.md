@@ -8,7 +8,7 @@ This is my version of a word game. Enter as  many words as possible before the c
 
 *Player Select
 - Single player mode
-- Multi-player mode; and the # of players (from one to seven)  NOT WORKING!!!
+- Multi-player mode; and the # of players (from two to seven)  NOT WORKING!!!
   
 #Gameplay
 - Users are presented with a three second countdown modal
