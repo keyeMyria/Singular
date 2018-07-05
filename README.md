@@ -6,9 +6,9 @@ This is my version of a word game. Enter as  many words as possible before the c
 - Scrabble-style scoring
 - Words With Friends-style scoring
 
-#Player Select (1-7)
+*Player Select
 - Single player mode
-- Multi-player mode; and the # of players (up to seven) NOT WORKING!!!
+- Multi-player mode; and the # of players (from one to seven)  NOT WORKING!!!
   
 #Gameplay
 - Users are presented with a three second countdown modal
