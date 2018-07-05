@@ -18,9 +18,16 @@ Strikes
 - Misspelling a word for submission
 - Submitting an entry with no characters (blank/null)
 
-https://cdn.rawgit.com/dlr4life/Singular/blob/master/Singular/Assets.xcassets/IMG_0081.imageset/IMG_0081.PNG)
-https://cdn.rawgit.com/dlr4life/Singular/blob/master/Singular/Assets.xcassets/IMG_0081.imageset/IMG_0083.PNG)
-https://cdn.rawgit.com/dlr4life/Singular/blob/master/Singular/Assets.xcassets/IMG_0081.imageset/IMG_0082.PNG)
+<p align="center">
+  <img src="https://github.com/dlr4life/Singular/blob/master/Singular/Assets.xcassets/IMG_0081.imageset/IMG_0081.PNG" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="300" alt="">
+
+  <img src="https://github.com/dlr4life/Singular/blob/master/Singular/Assets.xcassets/IMG_0083.imageset/IMG_0083.PNG" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="300" alt="">
+
+  <img src="https://github.com/dlr4life/Singular/blob/master/Singular/Assets.xcassets/IMG_0082.imageset/IMG_0082.PNG" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="300" alt="">
+</p>
 
 Copyright (c) 2018. DLR LLC.
 
