@@ -18,7 +18,9 @@ Strikes
 - Misspelling a word for submission
 - Submitting an entry with no characters (blank/null)
 
-![Screenshot](IMG_0081.png)   ![Screenshot](IMG_0083.png)   ![Screenshot](IMG_0082.png) 
+https://cdn.rawgit.com/dlr4life/Singular/blob/master/Singular/Assets.xcassets/IMG_0081.imageset/IMG_0081.PNG)
+https://cdn.rawgit.com/dlr4life/Singular/blob/master/Singular/Assets.xcassets/IMG_0081.imageset/IMG_0083.PNG)
+https://cdn.rawgit.com/dlr4life/Singular/blob/master/Singular/Assets.xcassets/IMG_0081.imageset/IMG_0082.PNG)
 
 Copyright (c) 2018. DLR LLC.
 
